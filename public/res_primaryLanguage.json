@@ -1,0 +1,162 @@
+{
+    "basic_info": {
+      "description_header": "Selamat Datang Pengunjungku 👋",
+      "description": "Selamat Datang di Website cemilan wara - wiri, Cemilan wara - wiri adalah sebuah startup penjualan makanan berbasis digital. Dimana pengunjung bisa membeli makanan secara online menggunakan sistem PO (pre order)⭐. Terima Kasih Atas Kunjungan Anda 💜",
+      "section_name": {
+        "about": "Tentang Kami",
+        "projects": "Produk Kami",
+        "skills": "Temukan Kami",
+        "experience": "Pendiri"
+      }
+    },
+    "projects": [
+      {
+        "title": "Singkong",
+        "startDate": "2018",
+        "description": "hallo gaes, yuk di order kripik singkong amplopnya untuk menemanimu dibulan ramadhan untuk teman setelah berbuka juga bisa loh gaes .. yuk di list order ya",
+        "images": [
+          "images/singkong/ori.png",
+          "images/singkong/pedesajh.png",
+          "images/singkong/coklat.png",
+          "images/singkong/balado.png",
+          "images/singkong/sapi.png",
+          "images/singkong/pedesbgt.png"
+          
+        ],
+        "url": "https://whatsapp.com",
+        "technologies": [
+          {
+            "class": "fab fa-whatsapp",
+            "url" :"https://fb.com",
+            "name": "Beli Sekarang"
+          }
+        ]
+      },
+      {
+        "title": "Seblak",
+        "startDate": "2018",
+        "description": "hallo gaes, kali ini @cemilan_warawiri akan memperkenalkan tentang kripik seblak ya gaes 🎉 yuk gaes langsung aja kita kepoin 🎉🤗",
+        "images": [
+          "images/seblak/ori.png",
+          "images/seblak/cabeijo.png",
+          "images/seblak/bld.png",
+          "images/seblak/cabemerah.png"
+        ],
+        "url": "https://whatsapp.com",
+        "technologies": [
+          {
+            "class": "fab fa-whatsapp",
+            "url" :"https://fb.com",
+            "name": "Beli Sekarang"
+          }
+        ]
+      },
+      {
+        "title": "Sari Lemon",
+        "startDate": "2015",
+        "description": "hallo gaes, cemilan warawiri aktif lagi nih gaes dengan produk baru yaitu sari lemon loh gaes, selain menyegarkan sari lemon juga banyak manfaatnya loh untuk kesehatan badan 🎉😎",
+        "images": [
+          "images/minuman/1.png",
+          "images/minuman/2.png"
+        ],
+        "url": "https://whatsapp.com",
+        "technologies": [
+          {
+            "class": "fab fa-whatsapp",
+            "url" :"https://fb.com",
+            "name": "Beli Sekarang"
+          }
+        ]
+      },
+      {
+        "title": "Frozen Food",
+        "startDate": "2015",
+        "description": "yuk gaes di order yuk hanya di cemilan_warawiri yang menyediakan aneka makanan sudah matang maupun belum matang loh 🎉🎉",
+        "images": [
+          "images/ff/so.png",
+          "images/ff/sosiss.png",
+          "images/ff/dimsum.png"
+        ],
+        "url": "https://whatsapp.com",
+        "technologies": [
+          {
+            "class": "fab fa-whatsapp",
+            "url" :"https://fb.com",
+            "name": "Beli Sekarang"
+          }
+        ]
+      },
+
+      {
+        "title": "Kurma",
+        "startDate": "2015",
+        "description": "Selamat Datang gengs, yuk stock buat bulan puasa nih gaes kurma nya😍",
+        "images": [
+          "images/kurma/1.png",
+          "images/kurma/2.png",
+          "images/kurma/3.png"
+        ],
+        "url": "https://whatsapp.com",
+        "technologies": [
+          {
+            "class": "fab fa-whatsapp",
+            "url" :"https://fb.com",
+            "name": "Beli Sekarang"
+          }
+        ]
+      },
+      {
+        "title": "Baso Aci",
+        "startDate": "2015",
+        "description": "Bocinya nih gaes, dijamin wenak dengan harga standart, yuk di list order gaes",
+        "images": [
+          "images/bs/1.png",
+          "images/bs/2.png"
+        ],
+        "url": "https://whatsapp.com",
+        "technologies": [
+          {
+            "class": "fab fa-whatsapp",
+            "url" :"https://fb.com",
+            "name": "Beli Sekarang"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        
+        "title": "Veri Irawan Sanjaya",
+        "years": "20 Tahun",
+        "mainTech": [
+          "Founder & CEO"
+        ],
+        "technologies": [
+          ""
+          
+        ]
+      },
+      {
+        
+        "title": "Marsudi",
+        "years": "21 Tahun",
+        "mainTech": [
+          "CO-Founder & Developer"
+        ],
+        "technologies": [
+          ""
+        ]
+      },
+      {
+        
+        "title": "Zainul Al Fajri",
+        "years": "20 Tahun",
+        "mainTech": [
+          "CO-Founder & Designer"
+        ],
+        "technologies": [
+          ""
+        ]
+      }
+    ]
+  }

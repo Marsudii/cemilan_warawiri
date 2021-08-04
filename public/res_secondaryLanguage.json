@@ -1,0 +1,162 @@
+{
+  "basic_info": {
+    "description_header": "Welcome My Visitor 👋",
+    "description": " Welcome to the website snack wara - wiri, Cemilan wara - wiri is a digital-based food sales startup. Where visitors can buy food online using the PO (pre order) system ⭐. Thank You For Your Visit 💜",
+    "section_name": {
+      "about": "About Us",
+      "projects": "Product",
+      "skills": "Find Us",
+      "experience": "Founding"
+    }
+  },
+  "projects": [
+    {
+      "title": "Cassava",
+      "startDate": "2018",
+      "description": "hello guys, let's order the envelope of cassava chips to accompany you in the month of Ramadan for friends after breaking the fast, guys, let's list the order, okay?",
+      "images": [
+        "images/singkong/ori.png",
+        "images/singkong/pedesajh.png",
+        "images/singkong/coklat.png",
+        "images/singkong/balado.png",
+        "images/singkong/sapi.png",
+        "images/singkong/pedesbgt.png"
+        
+      ],
+      "url": "https://whatsapp.com",
+      "technologies": [
+        {
+          "class": "fab fa-whatsapp",
+          "url" :"https://fb.com",
+          "name": "Buy Now"
+        }
+      ]
+    },
+    {
+      "title": "Seblak",
+      "startDate": "2018",
+      "description": "hello guys, this time @cemilan_warawiri will introduce the seblak chips, guys let's go straight to the point🎉🤗",
+      "images": [
+        "images/seblak/ori.png",
+        "images/seblak/cabeijo.png",
+        "images/seblak/bld.png",
+        "images/seblak/cabemerah.png"
+      ],
+      "url": "https://whatsapp.com",
+      "technologies": [
+        {
+          "class": "fab fa-whatsapp",
+          "url" :"https://fb.com",
+          "name": "Buy Now"
+        }
+      ]
+    },
+    {
+      "title": "Lemon Juice",
+      "startDate": "2015",
+      "description": "Hello guys, warawiri snacks are active again, guys with a new product, namely lemon juice, guys, besides refreshing lemon juice, there are also many benefits for body health.🎉😎",
+      "images": [
+        "images/minuman/1.png",
+        "images/minuman/2.png"
+      ],
+      "url": "https://whatsapp.com",
+      "technologies": [
+        {
+          "class": "fab fa-whatsapp",
+          "url" :"https://fb.com",
+          "name": "Buy Now"
+        }
+      ]
+    },
+    {
+      "title": "Frozen Food",
+      "startDate": "2015",
+      "description": "Come on guys, let's order, only at snack_warawiri which provides a variety of cooked and uncooked food🎉🎉",
+      "images": [
+        "images/ff/so.png",
+        "images/ff/sosiss.png",
+        "images/ff/dimsum.png"
+      ],
+      "url": "https://whatsapp.com",
+      "technologies": [
+        {
+          "class": "fab fa-whatsapp",
+          "url" :"https://fb.com",
+          "name": "Buy Now"
+        }
+      ]
+    },
+
+    {
+      "title": "Dates",
+      "startDate": "2015",
+      "description": "Come on guys, let's order, only at snack_warawiri which provides a variety of cooked and uncooked food😍😍",
+      "images": [
+        "images/kurma/1.png",
+        "images/kurma/2.png",
+        "images/kurma/3.png"
+      ],
+      "url": "https://whatsapp.com",
+      "technologies": [
+        {
+          "class": "fab fa-whatsapp",
+          "url" :"https://fb.com",
+          "name": "Beli Sekarang"
+        }
+      ]
+    },
+    {
+      "title": "Meatball Aci",
+      "startDate": "2015",
+      "description": "It's funny, guys, it's guaranteed to be delicious at a standard price, let's list the orders, guys",
+      "images": [
+        "images/bs/1.png",
+        "images/bs/2.png"
+      ],
+      "url": "https://whatsapp.com",
+      "technologies": [
+        {
+          "class": "fab fa-whatsapp",
+          "url" :"https://fb.com",
+          "name": "Beli Sekarang"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      
+      "title": "Veri Irawan Sanjaya",
+      "years": "20 Tahun",
+      "mainTech": [
+        "Founder & CEO"
+      ],
+      "technologies": [
+        ""
+        
+      ]
+    },
+    {
+      
+      "title": "Marsudi",
+      "years": "21 Tahun",
+      "mainTech": [
+        "CO-Founder & Developer"
+      ],
+      "technologies": [
+        ""
+      ]
+    },
+    {
+      
+      "title": "Zainul Al Fajri",
+      "years": "20 Tahun",
+      "mainTech": [
+        "CO-Founder & Designer"
+      ],
+      "technologies": [
+        ""
+      ]
+    }
+  ]
+}

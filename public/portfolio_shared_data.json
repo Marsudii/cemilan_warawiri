@@ -1,0 +1,53 @@
+{
+    "basic_info": {
+      "name": "Cemilan Wara - Wiri",
+      "titles": [ "Makanan", "Minuman", "Cemilan", "Jajanan" ],
+      "social": [
+        {
+          "name": "Whatssapp",
+          "url": "https://api.whatsapp.com/send?phone=6289678769722",
+          "class": "fab fa-whatsapp"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/cemilan_warawiri/",
+          "class": "fab fa-instagram"
+        },
+        {
+          "name": "Email",
+          "url": "mailto:nuryadin610@gmail.com",
+          "class": "far fa-envelope"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "WhatsApp",
+          "class": "fab fa-whatsapp",
+          "image": "myProfile.jpg",
+          "level": "95",
+          "link" : "https://api.whatsapp.com/send?phone=6289678769722"
+        },
+        {
+          "name": "Instagram",
+          "class": "fab fa-instagram",
+          "link" : "https://www.instagram.com/veri_irawan_s/",
+          "level": "95"
+        },
+        {
+          "name": "Email",
+          "class": "far fa-envelope",
+          "link" : "mailto:nuryadin610@gmail.com",
+          "level": "80"
+        }
+      ]
+    }
+
+    
+
+
+  }
+    
+  
