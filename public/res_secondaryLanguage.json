@@ -23,11 +23,11 @@
         "images/singkong/pedesbgt.png"
         
       ],
-      "url": "https://whatsapp.com",
+      "url": "https://api.whatsapp.com/send?phone=6289678769722",
       "technologies": [
         {
           "class": "fab fa-whatsapp",
-          "url" :"https://fb.com",
+          "url" :"https://api.whatsapp.com/send?phone=6289678769722",
           "name": "Buy Now"
         }
       ]
@@ -42,11 +42,11 @@
         "images/seblak/bld.png",
         "images/seblak/cabemerah.png"
       ],
-      "url": "https://whatsapp.com",
+      "url": "https://api.whatsapp.com/send?phone=6289678769722",
       "technologies": [
         {
           "class": "fab fa-whatsapp",
-          "url" :"https://fb.com",
+          "url" :"https://api.whatsapp.com/send?phone=6289678769722",
           "name": "Buy Now"
         }
       ]
@@ -59,11 +59,11 @@
         "images/minuman/1.png",
         "images/minuman/2.png"
       ],
-      "url": "https://whatsapp.com",
+      "url": "https://api.whatsapp.com/send?phone=6289678769722",
       "technologies": [
         {
           "class": "fab fa-whatsapp",
-          "url" :"https://fb.com",
+          "url" :"https://api.whatsapp.com/send?phone=6289678769722",
           "name": "Buy Now"
         }
       ]
@@ -77,11 +77,11 @@
         "images/ff/sosiss.png",
         "images/ff/dimsum.png"
       ],
-      "url": "https://whatsapp.com",
+      "url": "https://api.whatsapp.com/send?phone=6289678769722",
       "technologies": [
         {
           "class": "fab fa-whatsapp",
-          "url" :"https://fb.com",
+          "url" :"https://api.whatsapp.com/send?phone=6289678769722",
           "name": "Buy Now"
         }
       ]
@@ -96,11 +96,11 @@
         "images/kurma/2.png",
         "images/kurma/3.png"
       ],
-      "url": "https://whatsapp.com",
+      "url": "https://api.whatsapp.com/send?phone=6289678769722",
       "technologies": [
         {
           "class": "fab fa-whatsapp",
-          "url" :"https://fb.com",
+          "url" :"https://api.whatsapp.com/send?phone=6289678769722",
           "name": "Beli Sekarang"
         }
       ]
@@ -113,11 +113,11 @@
         "images/bs/1.png",
         "images/bs/2.png"
       ],
-      "url": "https://whatsapp.com",
+      "url": "https://api.whatsapp.com/send?phone=6289678769722",
       "technologies": [
         {
           "class": "fab fa-whatsapp",
-          "url" :"https://fb.com",
+          "url" :"https://api.whatsapp.com/send?phone=6289678769722",
           "name": "Beli Sekarang"
         }
       ]
@@ -129,7 +129,7 @@
       "title": "Veri Irawan Sanjaya",
       "years": "20 Tahun",
       "mainTech": [
-        "Founder & CEO"
+        "Founder"
       ],
       "technologies": [
         ""
