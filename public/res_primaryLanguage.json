@@ -27,7 +27,7 @@
         "technologies": [
           {
             "class": "fab fa-whatsapp",
-            "url" :"https://fb.com",
+            "url" :"https://api.whatsapp.com/send?phone=6289678769722",
             "name": "Beli Sekarang"
           }
         ]
@@ -42,7 +42,7 @@
           "images/seblak/bld.png",
           "images/seblak/cabemerah.png"
         ],
-        "url": "https://whatsapp.com",
+        "url": "https://api.whatsapp.com/send?phone=6289678769722",
         "technologies": [
           {
             "class": "fab fa-whatsapp",
@@ -81,7 +81,7 @@
         "technologies": [
           {
             "class": "fab fa-whatsapp",
-            "url" :"https://fb.com",
+            "url" :"https://api.whatsapp.com/send?phone=6289678769722",
             "name": "Beli Sekarang"
           }
         ]
