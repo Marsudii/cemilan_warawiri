@@ -1,7 +1,5 @@
 import React, { Component } from "react";
-import { Icon } from "@iconify/react";
 
-import whatsappIcon from '@iconify/icons-logos/whatsapp';
 
 
 
